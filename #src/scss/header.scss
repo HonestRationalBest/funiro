@@ -272,7 +272,7 @@
   &__item {
     &_favorites {
       color: #262f56;
-      font-size: 24px;
+      font-size: 20px;
       transition: color 0.3s ease 0s;
       @media (any-hover: hover) {
         &:hover {
@@ -292,7 +292,7 @@
 .cart-header {
   &__icon {
     color: #262f56;
-    font-size: 24px;
+    font-size: 22px;
     transition: color 0.3s ease 0s;
     position: relative;
     display: block;
